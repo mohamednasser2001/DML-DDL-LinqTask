@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\ErraSoft\\Session21\\DDL,DMLTask\\DML\\TaskLinqInBikeStoreDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA0B4E0-7A9D-4ACB-A964-5DB8CE3F1481}|TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB.csproj|e:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\errasoft\\session21\\ddl,dmltask\\dml\\tasklinqinbikestoredb\\tasklinqinbikestoredb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA0B4E0-7A9D-4ACB-A964-5DB8CE3F1481}|TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB.csproj|solutionrelative:tasklinqinbikestoredb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA0B4E0-7A9D-4ACB-A964-5DB8CE3F1481}|TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB.csproj|e:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\errasoft\\session21\\ddl,dmltask\\dml\\tasklinqinbikestoredb\\tasklinqinbikestoredb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA0B4E0-7A9D-4ACB-A964-5DB8CE3F1481}|TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB.csproj|solutionrelative:tasklinqinbikestoredb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\ErraSoft\\Session21\\DDL,DMLTask\\DML\\TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskLinqInBikeStoreDB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\ErraSoft\\Session21\\DDL,DMLTask\\DML\\TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskLinqInBikeStoreDB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAuwFIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:02:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\ErraSoft\\Session21\\DDL,DMLTask\\DML\\TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB\\Program.cs",
+              "RelativeDocumentMoniker": "TaskLinqInBikeStoreDB\\Program.cs",
+              "ToolTip": "E:\\\u0645\u062D\u0645\u062F \u0627\u0644\u0627\u0644\u0628\u0627\u0646\u064A\\ErraSoft\\Session21\\DDL,DMLTask\\DML\\TaskLinqInBikeStoreDB\\TaskLinqInBikeStoreDB\\Program.cs",
+              "RelativeToolTip": "TaskLinqInBikeStoreDB\\Program.cs",
+              "ViewState": "AQIAACQAAACA/f////8PwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:00:45.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
